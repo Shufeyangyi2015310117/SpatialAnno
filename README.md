@@ -1,5 +1,5 @@
 # SpatialAnno
-Probabilistic cell/domain-type assignment of spatial transcriptomics data with SpatialAnno
+SpatialAnno: Probabilistic cell/domain-type assignment of spatial transcriptomics data with SpatialAnno
 
 # Installation
 
