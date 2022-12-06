@@ -23,7 +23,7 @@ For usage examples and guided walkthroughs, check the `vignettes` directory of t
 
 * [Mouse olfactory bulb data analysis](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/MOB.html)
 * [Toy examples for Annotation](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/SpatialAnno.html)
-* [human_dorsolateral_prefrontal_cortex data analysis](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/brain.html)
+* [human dorsolateral prefrontal cortex data analysis](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/brain.html)
 
 # Analysis code
 
