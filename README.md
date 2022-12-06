@@ -35,9 +35,9 @@ The simulated dataset examples were in ./Simulation/simulated_datasets folder.
 Brief descriptions of simulated scripts (./Simulation/Rcode folder):
 
 
-**simulated_Scenario1_().R**: Anatation analysis for Scenario I. Test the robustness of SpatialAnno to the erroneous specification of the number of cell/domain types.
+**simulated_Scenario1_(5,7,9).R**: Anatation analysis for Scenario I. Test the robustness of SpatialAnno to the erroneous specification of the number of cell/domain types.
 
-**simulated_Scenario2_().R**: Anatation analysis for Scenario II. Evaluate the robustness of SpatialAnno to the marker gene misspecification. 
+**simulated_Scenario2_(0.1,0.2,0.3).R**: Anatation analysis for Scenario II. Evaluate the robustness of SpatialAnno to the marker gene misspecification. 
 
 **simulated_Scenario3.R**: Anatation analysis for Scenario III. Assess the capability of SpatialAnno to utilize high-dimensional non-marker genes
 
