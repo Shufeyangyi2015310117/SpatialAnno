@@ -21,9 +21,9 @@ For an example of typical SpatialAnno usage, please see our [Package vignette](h
 # Usage
 For usage examples and guided walkthroughs, check the `vignettes` directory of the repo. 
 
-* [Single SRT data analysis](https://feiyoung.github.io/PRECAST/articles/PRECAST.DLPFC.html)
-* [Toy examples for integrating two bathes](https://feiyoung.github.io/PRECAST/articles/PRECAST.Simu.html)
-* [Integration across experimental batches](https://feiyoung.github.io/PRECAST/articles/PRECAST.BreastCancer.html)
+* [Mouse mob data analysis]([https://shufeyangyi2015310117.github.io/SpatialAnno/articles/MOB.html])
+* [Toy examples for Annotation]([https://shufeyangyi2015310117.github.io/SpatialAnno/articles/SpatialAnno.html])
+* [human_dorsolateral_prefrontal_cortex data analysis]([https://shufeyangyi2015310117.github.io/SpatialAnno/articles/brain.html])
 
 # Analysis code
 
@@ -35,9 +35,9 @@ The simulated dataset examples were in ./Simulation/simulated_datasets folder.
 Brief descriptions of simulated scripts (./Simulation/Rcode folder):
 
 
-**simulated_Scenario1.R**: Anatation analysis for Scenario I. Test the robustness of SpatialAnno to the erroneous specification of the number of cell/domain types.
+**simulated_Scenario1_().R**: Anatation analysis for Scenario I. Test the robustness of SpatialAnno to the erroneous specification of the number of cell/domain types.
 
-**simulated_Scenario2.R**: Anatation analysis for Scenario II. Evaluate the robustness of SpatialAnno to the marker gene misspecification. 
+**simulated_Scenario2_().R**: Anatation analysis for Scenario II. Evaluate the robustness of SpatialAnno to the marker gene misspecification. 
 
 **simulated_Scenario3.R**: Anatation analysis for Scenario III. Assess the capability of SpatialAnno to utilize high-dimensional non-marker genes
 
