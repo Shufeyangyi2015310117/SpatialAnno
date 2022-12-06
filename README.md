@@ -22,8 +22,8 @@ For an example of typical SpatialAnno usage, please see our [Package vignette](h
 For usage examples and guided walkthroughs, check the `vignettes` directory of the repo. 
 
 * [Mouse mob data analysis](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/MOB.html)
-* [Toy examples for Annotation]([https://shufeyangyi2015310117.github.io/SpatialAnno/articles/SpatialAnno.html])
-* [human_dorsolateral_prefrontal_cortex data analysis]([https://shufeyangyi2015310117.github.io/SpatialAnno/articles/brain.html])
+* [Toy examples for Annotation](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/SpatialAnno.html)
+* [human_dorsolateral_prefrontal_cortex data analysis](https://shufeyangyi2015310117.github.io/SpatialAnno/articles/brain.html)
 
 # Analysis code
 
