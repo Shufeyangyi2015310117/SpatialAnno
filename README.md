@@ -27,6 +27,8 @@ For usage examples and guided walkthroughs, check the `vignettes` directory of t
 
 # Analysis code
 
+The analysis code of SpatialAnno can be accessable on [code website] https://github.com/Shufeyangyi2015310117/SpatialAnno_Analysis
+
 ## Simulation 
 The simulated dataset examples were in ./Simulation/simulated_datasets folder.
 
