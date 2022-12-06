@@ -25,7 +25,7 @@ For usage examples and guided walkthroughs, check the `vignettes` directory of t
 * [Toy examples for integrating two bathes](https://feiyoung.github.io/PRECAST/articles/PRECAST.Simu.html)
 * [Integration across experimental batches](https://feiyoung.github.io/PRECAST/articles/PRECAST.BreastCancer.html)
 
-# analysis code
+# Analysis code
 
 ## Simulation 
 The simulated dataset examples were in ./Simulation/simulated_datasets folder.
