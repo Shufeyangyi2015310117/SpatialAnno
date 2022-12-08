@@ -29,4 +29,4 @@ For usage examples and guided walkthroughs, check the `vignettes` directory of t
 
 The analysis code of SpatialAnno are accessable on [code website](https://github.com/Shufeyangyi2015310117/SpatialAnno_Analysis)
 
-We leave emply the folders containing inputs and intermediate outputs due to the size limit. The whole files can be downloaded from [zenodo](10.5281/zenodo.7413083)
+We leave emply the folders containing inputs and intermediate outputs due to the size limit. The whole files can be downloaded from [zenodo](https://doi.org/10.5281/zenodo.7413083)
