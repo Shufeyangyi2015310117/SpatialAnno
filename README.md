@@ -13,6 +13,8 @@ library(devtools)
 
 install_github("Shufeyangyi2015310117/SpatialAnno")
 
+It requires a few minutes on a "normal" desktop computer.  
+
 
 # Demonstration
 
